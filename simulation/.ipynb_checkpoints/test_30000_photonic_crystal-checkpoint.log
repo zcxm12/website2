@@ -1,0 +1,1281 @@
+nohup: ignoring input
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 6.29425e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000168085 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.81741e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00017786 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.31673e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000179052 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.29289e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000175953 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164032 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00018096 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.29289e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000174999 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000178099 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000197887 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.4121e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000174999 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.98295e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000192165 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.79221e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000194073 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.91278e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000196934 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 7.10487e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000190973 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.50611e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000169039 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 6.10352e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00018096 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.4121e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000179052 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.19617e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000163078 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.29289e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00018096 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁                   ] 1%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.19753e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00017786 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.38826e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000181913 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.50747e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000174046 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.91278e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000181913 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000165939 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.31673e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000185966 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.6982e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000184059 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.6982e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000182152 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000185013 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000192881 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁                  ] 2%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.19753e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000180006 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000185966 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.19617e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164986 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 7.39098e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164986 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164986 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.48227e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00016284 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.50747e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000169992 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.60148e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000177145 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.29153e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000178099 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.31673e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000166178 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁                 ] 3%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.57899e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000181198 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.50747e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000192881 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000179768 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.4121e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000175953 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000178099 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.48363e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00019598 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.72205e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000169039 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000163078 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.10216e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000166893 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.19617e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000169039 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁                ] 4%-----------
+Initializing structure...
+time for choose_chunkdivision = 6.10352e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000162125 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.4121e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000167131 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.4121e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000181913 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.31673e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00017786 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.31673e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000176191 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 4.3869e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164986 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000192881 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.19753e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000178814 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000164986 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.29289e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000167131 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁               ] 5%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.6982e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000167847 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
+run 0 finished at t = 2100.0 (42000 timesteps)
+[😁😁😁😁😁😁              ] 6%-----------
+Initializing structure...
+time for choose_chunkdivision = 5.60284e-05 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 6.4 with resolution 20
+     block, center = (0,0,1.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,3.2)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+     block, center = (0,0,4.9)
+          size (1e+20,1e+20,2.4)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.000170946 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2100.0)
