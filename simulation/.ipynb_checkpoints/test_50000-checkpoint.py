@@ -1,4 +1,5 @@
-import numpy as np
+##########################################################複製區塊
+# import numpy as np
 import matplotlib.pyplot as plt
 import time
 from scipy import signal
@@ -17,7 +18,12 @@ kb = 1.380649e-23
 hdk=7.63823258e-12
 deltap = np.sqrt(1/3/eps0/hbar/c)*kb
 T=50000
-
+frq_min = 0
+frq_max = 1.25*25/12
+nfreq = 1000
+fcen = (frq_min + frq_max)/2
+df = frq_max - frq_min
+dfp = 1/2
 #define square root of Dn function
 def Dnsqt(wla,T):
     return np.sqrt(6*hdk**2*wla/(np.exp(hdk*wla/T)-1)/T**2/np.pi)
@@ -28,17 +34,17 @@ for n in range(1,M):
     Dsqt.append(Dnsqt(2*np.pi*n/tsim,T))
 
 #define how many times to run to average the results
-Ncomp=1000
+Ncomp=1
 nfreq =  1000
 #define the starting sum of the result
 Efsum = np.zeros(nfreq)
 Ens = np.zeros(2*22)
-resolution = 50
+resolution = 10
 sz = 16  
 cell = mp.Vector3(0, 0, sz)
 dpml = 1.0
 pml_layers = [mp.PML(dpml)]
-
+nq = 0
 
 
 for i in range(Ncomp):
@@ -66,35 +72,35 @@ for i in range(Ncomp):
     #generate some feedback to check the progress of the loop
     x = i/Ncomp*100
     sys.stdout.write('\r')
-    sys.stdout.write("[%-20s] %d%%" % ('😁'*int(x), int(x)))
+    sys.stdout.write("[%-20s] %d%%" % ('m'*int(x), int(x)))
     sys.stdout.flush()
     sleep(0.0001)
     def source(t):
-        f = int(t*50)
+        f = int(t*200)
+        #print(t)
+        print(f)
         return En[f]
 
     sources = [mp.Source(mp.CustomSource(src_func=source),
                      component=mp.Ex,
                      center=mp.Vector3(0,0,-0.5*sz+dpml),
+                     #amplitude=2e-9
                      )]
     
     sim = mp.Simulation(cell_size=cell,
                     boundary_layers=pml_layers,
                     sources=sources,
                     dimensions = 1,
-                    Courant = 1,
+                    Courant = 0.01,
                     resolution=resolution)
     
-     # number of frequencies at which to compute flux
-    fcen = 0.2  # pulse center frequency
-    df = 0.4     # pulse width (in frequency)
 
     # transmitted flux
     tran_fr = mp.FluxRegion(center=mp.Vector3(0,0,-0.5*sz+dpml+0.5))#, size=mp.Vector3(0,2,0))
-    tran = sim.add_flux(fcen, df, nfreq, tran_fr)
+    tran = sim.add_flux(fcen, df*dfp, nfreq, tran_fr)
     
     
-    sim.run(until=2100)
+    sim.run(until=2097)
 
     tran_flux = mp.get_fluxes(tran)
     flux_freqs = mp.get_flux_freqs(tran)
@@ -112,12 +118,14 @@ for i in range(Ncomp):
 Efavg = Efsum/Ncomp
 
 #save data to some file or reload file to write more data on it
+######################################################複製區塊
 
 plt.figure(dpi=150)
-plt.plot(fs,Efavg,'.')
-plt.xlim(0,0.4)
-plt.ylim(0,3e-11)
-plt.savefig('detector_50000.png')
+freqs = np.linspace(0,30e15,1000)
+plt.plot(freqs,Efavg,'.')
+plt.xlim(0,25e15)
+plt.ylim(0,0.7*1e-12)
+plt.savefig('detector_vacuum_50000.png')
 plt.show()
 
 np.savez("custom_source_vacuum_50000.npz", Efavg_50000 = Efavg)
@@ -136,4 +144,4 @@ def transPNG(srcImageName, dstImageName):
             newData.append(item)
     img.putdata(newData)
     img.save(dstImageName, "PNG")
-transPNG('detector_50000.png','newdetector_50000.png')
+transPNG('detector_vacuum_50000.png','trans_detector_vacuum_50000.png')
