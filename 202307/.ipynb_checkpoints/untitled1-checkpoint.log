@@ -1,0 +1,29 @@
+nohup: ignoring input
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000566006 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 3.02 with resolution 1000
+     block, center = (0,0,-0.26)
+          size (0,0,0.5)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,0)
+          size (0,0,0.02)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (36,36,36)
+     block, center = (0,0,0.26)
+          size (0,0,0.5)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.00299096 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 20.839000000000002/2090.0 = 1.0% done in 4.0s, 397.2s to go
+on time step 20845 (time=20.845), 0.000191901 s/step
+Meep progress: 42.62/2090.0 = 2.0% done in 8.0s, 384.3s to go
+on time step 42626 (time=42.626), 0.000183648 s/step
+Meep progress: 64.506/2090.0 = 3.1% done in 12.0s, 376.8s to go
+on time step 64512 (time=64.512), 0.000182769 s/step
+Meep progress: 86.44200000000001/2090.0 = 4.1% done in 16.0s, 370.9s to go
+on time step 86448 (time=86.448), 0.000182352 s/step

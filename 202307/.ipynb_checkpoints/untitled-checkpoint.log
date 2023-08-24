@@ -1,0 +1,47 @@
+nohup: ignoring input
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000472069 s
+Working in 3D dimensions.
+Computational cell is 0.001 x 0.001 x 3.02 with resolution 1000
+     block, center = (0,0,-0.26)
+          size (0,0,0.5)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,0)
+          size (0,0,0.02)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (36,36,36)
+     block, center = (0,0,0.26)
+          size (0,0,0.5)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+time for set_epsilon = 0.0577729 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 1.735/2090.0 = 0.1% done in 4.0s, 4816.8s to go
+on time step 1735 (time=1.735), 0.00230615 s/step
+Meep progress: 3.511/2090.0 = 0.2% done in 8.0s, 4755.6s to go
+on time step 3511 (time=3.511), 0.00225242 s/step
+Meep progress: 5.28/2090.0 = 0.3% done in 12.0s, 4739.2s to go
+on time step 5280 (time=5.28), 0.00226158 s/step
+Meep progress: 7.055/2090.0 = 0.3% done in 16.0s, 4725.3s to go
+on time step 7055 (time=7.055), 0.00225433 s/step
+Meep progress: 8.823/2090.0 = 0.4% done in 20.0s, 4718.9s to go
+on time step 8823 (time=8.823), 0.00226292 s/step
+Meep progress: 10.596/2090.0 = 0.5% done in 24.0s, 4711.1s to go
+on time step 10596 (time=10.596), 0.00225657 s/step
+Meep progress: 12.358/2090.0 = 0.6% done in 28.0s, 4708.8s to go
+on time step 12358 (time=12.358), 0.00227128 s/step
+Meep progress: 14.105/2090.0 = 0.7% done in 32.0s, 4711.2s to go
+on time step 14105 (time=14.105), 0.00229095 s/step
+Meep progress: 15.862/2090.0 = 0.8% done in 36.0s, 4708.8s to go
+on time step 15862 (time=15.862), 0.0022767 s/step
+Meep progress: 17.584/2090.0 = 0.8% done in 40.0s, 4715.6s to go
+on time step 17584 (time=17.584), 0.00232288 s/step
+Meep progress: 19.282/2090.0 = 0.9% done in 44.0s, 4726.6s to go
+on time step 19282 (time=19.282), 0.002357 s/step
+Meep progress: 21.029/2090.0 = 1.0% done in 48.0s, 4724.1s to go
+on time step 21029 (time=21.029), 0.00229092 s/step
+Meep progress: 22.778000000000002/2090.0 = 1.1% done in 52.0s, 4720.9s to go
+on time step 22778 (time=22.778), 0.00228817 s/step
