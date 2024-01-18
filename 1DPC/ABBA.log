@@ -1,0 +1,603 @@
+nohup: ignoring input
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000169039 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00205088 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 377.0333333333333/2090.0 = 18.0% done in 4.0s, 18.2s to go
+on time step 22626 (time=377.1), 0.000176793 s/step
+Meep progress: 760.1333333333333/2090.0 = 36.4% done in 8.0s, 14.0s to go
+on time step 45613 (time=760.217), 0.000174018 s/step
+Meep progress: 1131.7333333333333/2090.0 = 54.1% done in 12.0s, 10.2s to go
+on time step 67909 (time=1131.82), 0.000179413 s/step
+Meep progress: 1502.7166666666667/2090.0 = 71.9% done in 16.0s, 6.3s to go
+on time step 90169 (time=1502.82), 0.000179696 s/step
+Meep progress: 1886.0333333333333/2090.0 = 90.2% done in 20.0s, 2.2s to go
+on time step 113168 (time=1886.13), 0.000173923 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaa          ] 10%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000138998 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00203705 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 381.75/2090.0 = 18.3% done in 4.0s, 17.9s to go
+on time step 22909 (time=381.817), 0.00017461 s/step
+Meep progress: 764.95/2090.0 = 36.6% done in 8.0s, 13.9s to go
+on time step 45901 (time=765.017), 0.000173975 s/step
+Meep progress: 1148.2833333333333/2090.0 = 54.9% done in 12.0s, 9.8s to go
+on time step 68901 (time=1148.35), 0.000173917 s/step
+Meep progress: 1532.35/2090.0 = 73.3% done in 16.0s, 5.8s to go
+on time step 91945 (time=1532.42), 0.000173585 s/step
+Meep progress: 1914.7333333333333/2090.0 = 91.6% done in 20.0s, 1.8s to go
+on time step 114889 (time=1914.82), 0.000174345 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaa] 20%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000130892 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00201392 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 383.35/2090.0 = 18.3% done in 4.0s, 17.8s to go
+on time step 23004 (time=383.4), 0.000173885 s/step
+Meep progress: 767.9666666666667/2090.0 = 36.7% done in 8.0s, 13.8s to go
+on time step 46081 (time=768.017), 0.000173337 s/step
+Meep progress: 1149.7166666666667/2090.0 = 55.0% done in 12.0s, 9.8s to go
+on time step 68986 (time=1149.77), 0.000174638 s/step
+Meep progress: 1533.4666666666667/2090.0 = 73.4% done in 16.0s, 5.8s to go
+on time step 92011 (time=1533.52), 0.000173727 s/step
+Meep progress: 1916.4333333333334/2090.0 = 91.7% done in 20.0s, 1.8s to go
+on time step 114989 (time=1916.48), 0.000174081 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 30%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000144005 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00204492 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 382.6166666666667/2090.0 = 18.3% done in 4.0s, 17.8s to go
+on time step 22961 (time=382.683), 0.000174213 s/step
+Meep progress: 764.7/2090.0 = 36.6% done in 8.0s, 13.9s to go
+on time step 45887 (time=764.783), 0.000174482 s/step
+Meep progress: 1146.6833333333334/2090.0 = 54.9% done in 12.0s, 9.9s to go
+on time step 68806 (time=1146.77), 0.000174531 s/step
+Meep progress: 1529.4333333333334/2090.0 = 73.2% done in 16.0s, 5.9s to go
+on time step 91772 (time=1529.53), 0.000174176 s/step
+Meep progress: 1910.7/2090.0 = 91.4% done in 20.0s, 1.9s to go
+on time step 114648 (time=1910.8), 0.000174863 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 40%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000150919 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00204897 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 380.55/2090.0 = 18.2% done in 4.0s, 18.0s to go
+on time step 22836 (time=380.6), 0.000175164 s/step
+Meep progress: 760.8166666666666/2090.0 = 36.4% done in 8.0s, 14.0s to go
+on time step 45652 (time=760.867), 0.000175319 s/step
+Meep progress: 1139.4166666666667/2090.0 = 54.5% done in 12.0s, 10.0s to go
+on time step 68368 (time=1139.47), 0.000176092 s/step
+Meep progress: 1519.2333333333333/2090.0 = 72.7% done in 16.0s, 6.0s to go
+on time step 91157 (time=1519.28), 0.000175524 s/step
+Meep progress: 1887.6499999999999/2090.0 = 90.3% done in 20.0s, 2.1s to go
+on time step 113262 (time=1887.7), 0.000180958 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 50%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000142813 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00197005 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 378.51666666666665/2090.0 = 18.1% done in 4.0s, 18.1s to go
+on time step 22715 (time=378.583), 0.000176099 s/step
+Meep progress: 758.1833333333333/2090.0 = 36.3% done in 8.0s, 14.1s to go
+on time step 45496 (time=758.267), 0.000175592 s/step
+Meep progress: 1137.95/2090.0 = 54.4% done in 12.0s, 10.0s to go
+on time step 68282 (time=1138.03), 0.00017555 s/step
+Meep progress: 1517.8333333333333/2090.0 = 72.6% done in 16.0s, 6.0s to go
+on time step 91075 (time=1517.92), 0.000175495 s/step
+Meep progress: 1897.35/2090.0 = 90.8% done in 20.0s, 2.0s to go
+on time step 113849 (time=1897.48), 0.000175639 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 60%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000138998 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00202799 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 379.9/2090.0 = 18.2% done in 4.0s, 18.0s to go
+on time step 22798 (time=379.967), 0.00017546 s/step
+Meep progress: 760.8166666666666/2090.0 = 36.4% done in 8.0s, 14.0s to go
+on time step 45653 (time=760.883), 0.000175017 s/step
+Meep progress: 1139.7833333333333/2090.0 = 54.5% done in 12.0s, 10.0s to go
+on time step 68391 (time=1139.85), 0.000175921 s/step
+Meep progress: 1519.9833333333333/2090.0 = 72.7% done in 16.0s, 6.0s to go
+on time step 91203 (time=1520.05), 0.000175349 s/step
+Meep progress: 1898.9166666666667/2090.0 = 90.9% done in 20.0s, 2.0s to go
+on time step 113939 (time=1898.98), 0.000175937 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 70%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000133038 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00197005 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 379.15/2090.0 = 18.1% done in 4.0s, 18.0s to go
+on time step 22753 (time=379.217), 0.000175808 s/step
+Meep progress: 763.6833333333333/2090.0 = 36.5% done in 8.0s, 13.9s to go
+on time step 45826 (time=763.767), 0.000173369 s/step
+Meep progress: 1147.8333333333333/2090.0 = 54.9% done in 12.0s, 9.8s to go
+on time step 68876 (time=1147.93), 0.000173543 s/step
+Meep progress: 1533.8833333333332/2090.0 = 73.4% done in 16.0s, 5.8s to go
+on time step 92039 (time=1533.98), 0.000172694 s/step
+Meep progress: 1919.2833333333333/2090.0 = 91.8% done in 20.0s, 1.8s to go
+on time step 115163 (time=1919.38), 0.000172984 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 80%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000138044 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00206804 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 387.35/2090.0 = 18.5% done in 4.0s, 17.6s to go
+on time step 23245 (time=387.417), 0.000172087 s/step
+Meep progress: 773.4833333333333/2090.0 = 37.0% done in 8.0s, 13.6s to go
+on time step 46413 (time=773.55), 0.000172657 s/step
+Meep progress: 1159.7/2090.0 = 55.5% done in 12.0s, 9.6s to go
+on time step 69586 (time=1159.77), 0.000172617 s/step
+Meep progress: 1546.2666666666667/2090.0 = 74.0% done in 16.0s, 5.6s to go
+on time step 92780 (time=1546.33), 0.000172463 s/step
+Meep progress: 1931.5333333333333/2090.0 = 92.4% done in 20.0s, 1.6s to go
+on time step 115896 (time=1931.6), 0.000173044 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa] 90%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.000136137 s
+Working in 1D dimensions.
+Computational cell is 0 x 0 x 24 with resolution 60
+     block, center = (0,0,-10.5)
+          size (1e+20,1e+20,1)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
+     block, center = (0,0,-9.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-9.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-8.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-8.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-7.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-7.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-6.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     block, center = (0,0,-6.4)
+          size (1e+20,1e+20,0.8)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (13,13,13)
+     block, center = (0,0,-5.9)
+          size (1e+20,1e+20,0.2)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2,2,2)
+     ...(+ 32 objects not shown)...
+time for set_epsilon = 0.00195789 s
+-----------
+FloatProgress(value=0.0, description='0% done ', max=2090.0)
+Meep progress: 386.8333333333333/2090.0 = 18.5% done in 4.0s, 17.6s to go
+on time step 23213 (time=386.883), 0.000172318 s/step
+Meep progress: 750.4333333333333/2090.0 = 35.9% done in 8.0s, 14.3s to go
+on time step 45030 (time=750.5), 0.000183348 s/step
+Meep progress: 1132.7333333333333/2090.0 = 54.2% done in 12.0s, 10.1s to go
+on time step 67968 (time=1132.8), 0.000174385 s/step
+Meep progress: 1518.1833333333334/2090.0 = 72.6% done in 16.0s, 6.0s to go
+on time step 91095 (time=1518.25), 0.000172958 s/step
+Meep progress: 1903.3166666666666/2090.0 = 91.1% done in 20.0s, 2.0s to go
+on time step 114203 (time=1903.38), 0.000173107 s/step
+run 0 finished at t = 2090.0 (125400 timesteps)
+
+Elapsed run time = 219.8811 s

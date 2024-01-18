@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/home/311514089/website2/202307/30000_2.4um_photonic_crystal.py", line 152
+    np.savez("30000_2.4um_photonic_crystal.npz", Efavg_30000_2.4 = Efavg)
+                                                 ^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?

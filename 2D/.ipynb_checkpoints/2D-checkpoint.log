@@ -1,0 +1,10 @@
+nohup: ignoring input
+[                    ] 0%-----------
+Initializing structure...
+time for choose_chunkdivision = 0.00465989 s
+Working in 2D dimensions.
+Computational cell is 4 x 4 x 0 with resolution 1000
+     block, center = (0,0,0)
+          size (1e+20,1,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (1,1,1)
